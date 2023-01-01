@@ -6,6 +6,9 @@
 * [gameboyemulator](https://github.com/alt-romes/gameboyemulator): A gameboy emulator from scratch
 * [chip8-emulator-for-gameboy](https://github.com/alt-romes/chip8-emulator-for-gameboy):  A chip8 emulator made in gameboy assembly for the gameboy 
 * [operating-system](https://github.com/alt-romes/operating-system): An operating system from scratch
+* [c-compiler](https://github.com/alt-romes/c-compiler): A C to LLVM compiler in C
+* [.vim](https://github.com/alt-romes/.vim): minimalist and modern vim configuration with sane settings, handwritten statusline and tabline, small custom plugins, and few external plugins
+* [cob-hs](https://github.com/alt-romes/cob-hs): A haskell library for CoB
 
 <!--
 **alt-romes/alt-romes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
