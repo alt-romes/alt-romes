@@ -1,6 +1,7 @@
 ### 🌱 Things I've spent a lot of hours in
 * [ghengin](https://github.com/alt-romes/ghengin): WIP: Haskell Game Engine
 * [hegg](https://github.com/alt-romes/hegg): Fast equality saturation in Haskell
+* [linear-core](https://github.com/alt-romes/linear-core): My master thesis on typechecking linearity in GHC Core, by understanding semantic linearity in the presence of call-by-need evaluation
 * [ghc-linear-synthesis-plugin](https://github.com/alt-romes/ghc-linear-synthesis-plugin): A GHC plugin for synthesizing Haskell programs from Linear Types using bottom-up proof search in linear logic with focusing
 * [programmer-calculator](https://github.com/alt-romes/programmer-calculator) Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits
 * [gameboyemulator](https://github.com/alt-romes/gameboyemulator): A gameboy emulator from scratch
