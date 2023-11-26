@@ -11,6 +11,7 @@
 * [.vim](https://github.com/alt-romes/.vim): minimalist and modern vim configuration with sane settings, handwritten statusline and tabline, small custom plugins, and few external plugins
 * [cob-hs](https://github.com/alt-romes/cob-hs): A haskell library for CoB
 * [haskell-x-swift-project-steps](https://github.com/alt-romes/haskell-x-swift-project-steps): A step-by-step Haskell x Swift project where the commits match the steps described in the accompanying blog posts
+* [haskell-swift](https://github.com/alt-romes/haskell-swift): Haskell x Swift interoperability libraries and tools 
 
 ### ⚡ And some of my smaller projects
 * [ghc-obsidian](https://github.com/alt-romes/ghc-obsidian-generator): Generate an Obsidian Vault from the Notes in GHC Haskell 
