@@ -13,9 +13,9 @@
 * [haskell-swift](https://github.com/alt-romes/haskell-swift): Haskell x Swift interoperability libraries and tools 
 
 ### ⚡ And some of my smaller projects
+* [reference-counting](https://github.com/alt-romes/reference-counting): Reference counting with linear types 
 * [haskell-x-swift-project-steps](https://github.com/alt-romes/haskell-x-swift-project-steps): A step-by-step Haskell x Swift project where the commits match the steps described in the accompanying blog posts
 * [mermaid-hs](https://github.com/alt-romes/mermaid-hs): A Haskell library for parsing mermaid diagrams
-* [reference-counting](https://github.com/alt-romes/reference-counting): WIP: Reference counting with linear types 
 * [ghc-obsidian](https://github.com/alt-romes/ghc-obsidian-generator): Generate an Obsidian Vault from the Notes in GHC Haskell
 
 <!--
