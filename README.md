@@ -17,6 +17,7 @@
 * [haskell-x-swift-project-steps](https://github.com/alt-romes/haskell-x-swift-project-steps): A step-by-step Haskell x Swift project where the commits match the steps described in the accompanying blog posts
 * [mermaid-hs](https://github.com/alt-romes/mermaid-hs): A Haskell library for parsing mermaid diagrams
 * [ghc-obsidian](https://github.com/alt-romes/ghc-obsidian-generator): Generate an Obsidian Vault from the Notes in GHC Haskell
+* [shuffdle.com](https://www.shuffdle.com): Slide the daily shuffdle word into the bottom row or: Caesar's 20-puzzle
 
 <!--
 **alt-romes/alt-romes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
