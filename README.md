@@ -2,7 +2,7 @@
 
 [**Kanjideck**: Learn Japanese Kanji. No silly mnemonics.](https://www.kanjideck.com)
 
-> Kanjideck is a no-shortcuts deck for learning Japanese Kanji with the super-power of spaced repetition, a proven method famously used by polyglots and medical students alike to study smarter, not harder.
+> Kanjideck is a no-shortcuts deck for learning Japanese Kanji with the super-power of spaced repetition to study smarter, not harder.
 
 I've finished the design and have test-printed copies that I am very happy with.
 The next step is launching a kickstarter campaign to cover the manufacturing costs, and get the word out there!
